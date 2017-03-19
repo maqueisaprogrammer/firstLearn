@@ -20,10 +20,12 @@ i am on master; yes, this is a master;
 
 i am on dev............
 
-i am learning tag....
+i am learning tag。。。....
 
 =================================
 
 i am learning pro git 2 now ...
 
 it's good, very good
+
+now i finally know something about git
