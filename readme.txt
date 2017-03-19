@@ -30,4 +30,8 @@ it's good, very good
 
 now i finally know something about git
 
+
 now i will read it, learn it and think about it 
+
+heiheihei, i am a new line added on github, not on my local repository
+
