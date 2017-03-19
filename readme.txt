@@ -35,3 +35,7 @@ now i will read it, learn it and think about it
 
 heiheihei, i am a new line added on github, not on my local repository
 
+================================
+
+i am on dev....
+i am done on dev....
