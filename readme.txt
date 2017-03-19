@@ -29,3 +29,5 @@ i am learning pro git 2 now ...
 it's good, very good
 
 now i finally know something about git
+
+heiheihei, i am a new line added on github, not on my local repository
